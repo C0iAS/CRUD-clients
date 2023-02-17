@@ -1,4 +1,23 @@
 .vscode
+abstraccion.py               
+game                 
+ordenamiento_por_mezcla.py
+app                          
+graficando_bokeh.py  
+__pycache__           
+instancias.py        
+README.md
+charts                       
+linked_list.py       
+selenium
+complejidad_algoritimica.py  
+node.py              
+stack.py
+decomposicion.py             
+ok.py                
+web-server
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/linux,windows,macos,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,windows,macos,python
 
