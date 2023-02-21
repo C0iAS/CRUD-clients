@@ -58,7 +58,7 @@ def delete_client(client_id):
 
     for idx, client in enumerate(clients):
         if idx == client_id:
-            del clients[idx] 
+            del client[idx] 
             break
 
 
